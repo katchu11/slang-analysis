@@ -13,6 +13,11 @@ I think the best analogy is it's like Anthropic's [Clio](https://www.anthropic.c
 
 Also I've added [CLAUDE.md](CLAUDE.md) for the love of the game.
 
+
+## Dashboard Screenshot
+
+![Dashboard Screenshot](sample_dashboard.png)
+
 ## High level eng components
 
 - **Async Processing**: Fast parallel API calls with concurrency control
