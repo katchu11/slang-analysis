@@ -8,5 +8,6 @@ dependencies = [
     "aiohttp>=3.12.13",
     "anthropic>=0.54.0",
     "plotly>=6.1.2",
+    "ruff>=0.12.0",
     "streamlit>=1.45.1",
 ]
